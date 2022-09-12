@@ -8,7 +8,7 @@ class Elev:
     
     glad = False
 
-elev1 = Elev("Tim", 17, True)
+elev1 = Elev("Tim", 18, True)
 if elev1.godkänd:
     elev1.glad = True
 
